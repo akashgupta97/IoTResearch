@@ -32,6 +32,7 @@ If you have any suggestions, please send a pull request.
 
 #### IoT Malware
 - 2018, IEEE S&P, [Understanding Linux Malware](https://rud.is/dl/ieee-sp-2018/435301a870.pdf) *
+- 2018, arXiv, [Malware static analysis and DDoS capabilities detection](https://arxiv.org/pdf/1812.00784.pdf)
 
 #### Fault Detection and Evaluation 
 - 2018, DSN, [Detecting and Identifying Faulty IoT Devices in Smart Home with Context Extraction](https://ieeexplore.ieee.org/document/8416520/)
